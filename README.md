@@ -65,7 +65,6 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-*(Nota: Lembre-se de ajustar os comandos de acordo com os nomes exatos dos arquivos dentro do seu repositório, caso difiram do padrão).*
 
 ## Tecnologias Utilizadas
 
